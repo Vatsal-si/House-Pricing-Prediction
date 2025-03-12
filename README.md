@@ -38,7 +38,7 @@ By leveraging advanced data preprocessing techniques and machine learning algori
 ## 🎯 How to Use
 1️⃣ Clone the repository from GitHub:
    ```bash
-   git clone https://github.com/your-username/house-pricing-prediction.git
+   git clone https://github.com/Vatsal-si/House-Pricing-Prediction.git
    cd house-pricing-prediction
    ```
 
