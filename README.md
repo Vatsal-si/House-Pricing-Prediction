@@ -1,9 +1,9 @@
 # 🏡 House Pricing Prediction
 
 ## 🚀 Overview
-Welcome to the *House Pricing Prediction* project—a cutting-edge machine learning model designed to predict house prices with precision! Whether you're a data science enthusiast, a real estate analyst, or just curious about AI-driven property valuation, this project is for you. 
+Welcome to the *House Pricing Prediction* project— a cutting-edge machine learning model designed to predict house prices with precision! Whether you're a data science enthusiast, a real estate analyst, or just curious about AI-driven property valuation, this project is for you. 
 
-By leveraging advanced data preprocessing techniques and machine learning algorithms, we transform raw housing data into meaningful insights that drive accurate predictions. 
+By leveraging advanced data preprocessing techniques and machine learning algorithms (*Random Forest Regressor*), we transform raw housing data into meaningful insights that drive accurate predictions. 
 
 ## 🔥 Key Features
 ✅ **Comprehensive Data Preprocessing**
